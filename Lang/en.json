@@ -1,0 +1,14 @@
+{
+  "LOG_PLUGIN_LOADED": "Plugin {0} loaded! Language: {1}",
+  "LOG_LANGUAGE_CHANGED": "Language changed from {0} to {1}",
+  "LOG_VALUABLE_COUNT": "Valuables found: {0}",
+  "LOG_FORCED_MAP": "Forced map size: {0}",
+  "LOG_MAP_SIZE_ADJUST2": "Map size adjusted to {0}",
+  "LOG_TILEGEN_CALC": "Level dimensions: {0} x {1}",
+  "LOG_LEVELS_COMPLETED": "Levels completed: {0}",
+  "LOG_FALLBACK_DIM": "Fallback dimension: {0}",
+  "LOG_CALC_MAPSIZE": "Calculated map size: {0} x {1}",
+  "LOG_AFTER_SCALING": "Module amount: {0}, Extraction amount: {1}",
+  "LOG_TILEGEN_COMPLETE": "Tile generation complete. Modules: {0}, Map: {1} x {2}",
+  "LOG_EXTRACTION": "Extraction amount: {0}"
+}

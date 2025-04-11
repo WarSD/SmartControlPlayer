@@ -1,0 +1,14 @@
+{
+  "LOG_PLUGIN_LOADED": "Plugin {0} carregado! Idioma: {1}",
+  "LOG_LANGUAGE_CHANGED": "Idioma alterado de {0} para {1}",
+  "LOG_VALUABLE_COUNT": "Valuables encontrados: {0}",
+  "LOG_FORCED_MAP": "Tamanho do mapa forçado: {0}",
+  "LOG_MAP_SIZE_ADJUST2": "Tamanho do mapa ajustado para {0}",
+  "LOG_TILEGEN_CALC": "Dimensões do nível: {0} x {1}",
+  "LOG_LEVELS_COMPLETED": "Níveis concluídos: {0}",
+  "LOG_FALLBACK_DIM": "Dimensão fallback: {0}",
+  "LOG_CALC_MAPSIZE": "Tamanho do mapa calculado: {0} x {1}",
+  "LOG_AFTER_SCALING": "Quantidade de módulos: {0}, Extrações: {1}",
+  "LOG_TILEGEN_COMPLETE": "Geração de tiles concluída. Módulos: {0}, Mapa: {1} x {2}",
+  "LOG_EXTRACTION": "Quantidade de extrações: {0}"
+}
